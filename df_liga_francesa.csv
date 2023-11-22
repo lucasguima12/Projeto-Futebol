@@ -1,0 +1,19 @@
+,form,league.id,league.name,league.season,team.id,team.name,fixtures.played.total,fixtures.wins.total,fixtures.draws.total,fixtures.loses.total,goals.for.total.total,biggest.streak.wins,biggest.streak.loses,Pontos
+64,DDWWLWDWWWWW,61,Ligue 1,2023,85,Paris Saint Germain,12,8,3,1,29,2,1,27
+63,DDDWWWDWWWWD,61,Ligue 1,2023,84,Nice,12,7,5,0,13,4,0,26
+65,WWDWDLWWWLWD,61,Ligue 1,2023,91,Monaco,12,7,3,2,25,3,1,24
+58,DWLWDLWDWWDD,61,Ligue 1,2023,79,Lille,12,5,5,2,15,2,1,20
+66,LWWDLWWLDWWL,61,Ligue 1,2023,93,Reims,12,6,2,4,17,2,1,20
+75,LDLLLWWDDWDW,61,Ligue 1,2023,116,Lens,12,4,4,4,13,2,3,16
+72,WWLDWWDDLLL,61,Ligue 1,2023,106,Stade Brestois 29,11,4,3,4,11,2,1,15
+73,DLDWDWLLDDWD,61,Ligue 1,2023,111,LE Havre,12,3,6,3,12,1,2,15
+62,LLDDWWLWWLLL,61,Ligue 1,2023,83,Nantes,12,4,2,6,17,2,2,14
+61,DWLLDDWLWLD,61,Ligue 1,2023,82,Montpellier,11,3,4,4,15,1,2,13
+60,WDWDDLLWLDL,61,Ligue 1,2023,81,Marseille,11,3,4,4,12,1,2,13
+74,LDWDWLLLLDDW,61,Ligue 1,2023,112,Metz,12,3,4,5,12,1,4,13
+68,WLWLDWLLLDD,61,Ligue 1,2023,95,Strasbourg,11,3,3,5,9,1,3,12
+69,WDLDDLWDDLLD,61,Ligue 1,2023,96,Toulouse,12,2,6,4,13,1,2,12
+67,WDDDDDWLLDLL,61,Ligue 1,2023,94,Rennes,12,2,6,4,16,1,2,12
+70,DDWLDLLDWLDL,61,Ligue 1,2023,97,Lorient,12,2,5,5,15,1,2,11
+71,LLLDLLDWLDW,61,Ligue 1,2023,99,Clermont Foot,11,2,3,6,8,1,3,9
+59,LLDLDLLDLDW,61,Ligue 1,2023,80,Lyon,11,1,4,6,9,0,2,7

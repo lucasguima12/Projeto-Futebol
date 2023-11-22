@@ -1,0 +1,19 @@
+,form,league.id,league.name,league.season,team.id,team.name,fixtures.played.total,fixtures.wins.total,fixtures.draws.total,fixtures.loses.total,goals.for.total.total,biggest.streak.wins,biggest.streak.loses,Pontos
+99,WDWWWWDWWWWWW,307,Pro League,2023,2932,Al-Hilal Saudi FC,13,11,2,0,34,4,0,35
+105,LLWWWWWWDWWWW,307,Pro League,2023,2939,Al-Nassr,13,10,1,2,36,6,2,31
+97,WWWWLWLDWWLWD,307,Pro League,2023,2929,Al-Ahli Jeddah,13,8,2,3,26,4,1,26
+102,DWWWWLWWWDDDL,307,Pro League,2023,2936,Al Taawon,13,7,4,2,21,4,1,25
+98,DWLDWWLWWWWLD,307,Pro League,2023,2931,Al-Fateh,13,7,3,3,29,4,1,24
+104,WWWWLWWDLDDLW,307,Pro League,2023,2938,Al-Ittihad FC,13,7,3,3,25,4,1,24
+100,WWDLWWWDLLWDD,307,Pro League,2023,2934,Al-Ettifaq,13,6,4,3,19,3,2,22
+108,WDDLDLWDDWLDD,307,Pro League,2023,2944,Al-Fayha,13,3,7,3,15,1,1,16
+103,LWWLLWWLDLLWL,307,Pro League,2023,2937,Al Wehda Club,13,5,1,7,23,2,2,16
+111,LDDDLLDWWLWDD,307,Pro League,2023,2956,Damac,13,3,6,4,20,2,2,15
+106,DLDLLWWLDWLWL,307,Pro League,2023,2940,Al Shabab,13,4,3,6,16,2,2,15
+110,LWLWLLLLDLWWL,307,Pro League,2023,2951,Abha,13,4,1,8,15,2,4,13
+96,LLDDWLWLDLDLW,307,Pro League,2023,2928,Al Khaleej Saihat,13,3,4,6,13,1,2,13
+113,WDLLLLLWDWLLD,307,Pro League,2023,10511,Al Riyadh,13,3,3,7,12,1,5,12
+107,WLLLWDLLLLWDL,307,Pro League,2023,2942,Al Taee,13,3,2,8,14,1,4,11
+112,DLLLWLLWLLLLW,307,Pro League,2023,2977,Al Akhdoud,13,3,1,9,10,1,4,10
+101,LLLWDLLLDLLDW,307,Pro League,2023,2935,Al-Raed,13,2,3,8,12,1,3,9
+109,LLDDLDLLLWDLL,307,Pro League,2023,2945,Al-Hazm,13,1,4,8,15,1,3,7
